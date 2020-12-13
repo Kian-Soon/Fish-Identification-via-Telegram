@@ -57,7 +57,7 @@ logger = logging.getLogger(__name__)
 
 reply_keyboard = [['Confirm', 'Restart']]
 markup = ReplyKeyboardMarkup(reply_keyboard, resize_keyboard=True, one_time_keyboard=True)
-TOKEN = '1327620281:AAG22mCGRp-STM5uLUuQ4LfpLrqRVDSK5_c'
+TOKEN = '????'
 bot = telegram.Bot(token=TOKEN)
 chat_id = '@sgwildlife'
 updater = Updater(TOKEN, use_context=True)
