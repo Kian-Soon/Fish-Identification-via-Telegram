@@ -1,4 +1,4 @@
-# fish-identification
+# Fish-Identification-via-Telegram
  
 This app allows angler to determine the species of the fish caught via telegram. 
 
